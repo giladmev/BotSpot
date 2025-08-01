@@ -42,7 +42,6 @@ The system analyzes two main types of features:
 - **Closeness Centrality**: How close a user is to all others in the network
 - **Eigenvector Centrality**: Connection to influential users
 - **PageRank**: Google's algorithm to determine importance
-- **Coreness**: Position in the core-periphery structure
 
 ### User Profile Features
 - **Activity metrics**: Tweet count, account age, tweets per day
